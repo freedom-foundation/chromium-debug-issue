@@ -1,0 +1,336 @@
+https://issuetracker.google.com/issues/365405757
+IssueTracker
+
+Assigned to me
+Starred by me
+CC'd to me
+Collaborating
+Reported by me
+
+    To be verified 
+
+Bookmark groups
+Saved searches
+Hotlists
+Create hotlist
+Create bookmark group
+Browse components
+Issue 365405757
+This issue is a part of the Chromium tracker.
+1269738907
+Public Trackers > 1362134 > Chromium > UI
+6 of 8
+SEVERE PRIVACY ISSUE cookie management is broken in all android chrome regression from stable
+Comments
+(37)
+Dependencies
+(0/1)
+Duplicates
+(1)
+Blocking
+(0)
+Resources
+(13)
+Can't Repro
+Bug
+P2
+Unconfirmed
+Status Update
+Updated by matt39s.home@ 2 weeks ago
+unsolved
+Descriptionch...@google.com created issue on behalf of Sovereign Jason M. Christos the First SP #1
+Sep 8, 2024 11:42PM
+Steps to reproduce the problem
+
+Easily reproducible, follow the steps ( on android) 1. Block thirdparty cookies 2.can't login to google.com website ( enter
+
+www.google.com into browser tap login and go through the precess)
+Problem Description
+
+Easily reproducible SEVERE PRIVACY ISSUE cookie management is broken in all android chrome regression from stable, can't login to
+www.google.com if block third party cookies has been enabled , follow the steps ( on android) 1. Block thirdparty cookies 2.can't login to google.com website ( enter
+
+www.google.com into browser tap login and go through the precess)
+Summary
+
+SEVERE PRIVACY ISSUE cookie management is broken in all android chrome regression from stable
+Additional Data
+
+Category: UI
+Chrome Channel: Not sure
+Regression: Yes
+Issue summary
+Similar issues
+Title 	Dupes 	+1s 	
+Created
+	
+1. 2 this version not support cookies 3.
+	0 	1 	May 16, 2024	
+Browser issues
+	0 	0 	Aug 13, 2024	
+[Test Reviver] Passing in selected builders: ninja://chrome/android:chrome_public_unit_test_apk/org.chromium.ui.base.ClipboardAndroidTest#internalClipboardInvalidation
+	0 	0 	May 1, 2024	
+Links (8)
+“
+www.google.com
+”
+ch...@
+#1, va...@
+#6
+“
+Video
+”
+va...@
+#6
+“
+https://github.com/learningBASh/chromium-debug/issues/1
+”
+matt39s.home@
+#11, matt39s.home@
+#12
+“
+google.com
+”
+matt39s.home@
+#11, matt39s.home@
+#12, matt39s.home@
+#31
+“
+bughunters.google.com
+”
+matt39s.home@
+#13, matt39s.home@
+#24
+Comments
+All comments
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #2
+Sep 8, 2024 11:45PM
+Third time this easily reproducible bug has been falsely-marked can't reproduce won't fix thus worthy of criminal negligence.
+va...@google.com <va...@google.com> #3Sep 9, 2024 05:46AM
+Assigned to
+matt39s.home@gmail.com.
+
+THanks for filing the issue.
+
+@reporter: Could you please help us with a video reproducing the issue.
+
+Thanks.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #4
+Sep 10, 2024 02:57AM
+@asker
+I  can make a screen record video but you do not need it. Because you DO NOT
+need it a red flag goes up that you may be a moron or an automatic chatbot.
+This easily reproducible SEVERE PROBLEM applies to all chrome variants
+brave, and  every other rebranded chromium source based browser. All you
+need to do is follow the steps on android. By now google may be prosecuted
+for criminal negligence and espionage against America's public.
+pe...@google.com <pe...@google.com> #5Sep 10, 2024 03:02AM
+
+Thank you for providing more feedback. Adding the requester to the CC list.
+va...@google.com <va...@google.com> #6Sep 10, 2024 05:49AM
+
+Thanks for the update.
+
+Issue is NOT REPRO & tested on Android 15; Pixel 8a Build/AP4A.240905.001 | Chrome 128.0.6613.132
+
+    Launch chrome
+    Navigate to settings > security & privacy -> Third party cookies -> Block third party cookies
+    Go back and on a new tab, search with 
+
+www.google.com
+
+    Able to see search results
+
+        Video
+
+@reporter: Could you please help us with reported version , device details to further investigate the issue.
+
+Thanks for understanding.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #7
+Sep 11, 2024 01:22AM
+@vaggasathish@google.com Absolutely this IS REPRO. I myself have reproduced this multiple times on multiple android phones. Pls hold the ticket open for screenshots and more info.
+pe...@google.com <pe...@google.com> #8Sep 11, 2024 01:27AM
+
+Thank you for providing more feedback. Adding the requester to the CC list.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #9
+Sep 11, 2024 01:27AM
+@vaggasathish after reading your attempt to repro I cannot be sure why you think watching a video relates to UNABLE TO LOGIN TO GOOGLE. By the average-joe you must be a gravely disabled mind. You shouldn't really be participating in public settings.
+va...@google.com <va...@google.com> #10Sep 11, 2024 05:48AM
+
+Thanks Matt for the update.
+
+COuld you please help me understand better, by sharing video with steps to reproduce, so that I can further triage this issue.
+
+Thanks for understanding
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #11
+Sep 11, 2024 01:02PM
+During your wait for screen record video take a look at my logs of past reports I had to keep because buganizer kept deleting my bug reports. This here is actually about the 4th report of the same not fixed bug. The backlog is located here at github https://github.com/learningBASh/chromium-debug/issues/1 titled End Of Humanity bug. And take a good look at the YouTube channel connected to this bug. Because something surprising happened during my screen recording I suspect this bug is a JavaScript trap or hijacking of JavaScript running as the google.com domain. I can explain more please leave this report open so I can log it. Unrelated private info may have been captured on screen record and I should re-record to exclude the private info.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #12
+Sep 11, 2024 01:26PM
+Actually when you look at my github issue containing all of the past reports indeed screenshots I supplied with typed labels and arrows in yellow overlayed on the screenshots -look these over as well as reading the full report. If you have any questions about the report do notbhesitate to ask and I will help you understand. If after reading the full history of these-this bug report if you still want a screen record say so.
+ As you will see in the report this particular bug occored on older versions of chrome and do know it was also an entirely different version of android. The preponderance of evidence begins to point at quite possibly something to do with JavaScript -and further so because suddenly the bug SEEMS to have dissapeared what a surprise I find during my screen recording yet keep in mind the exact bug as I report DID insistently occour on this phone multiple times I reproduced it on this phone as it was reproduced multiple times on prior phone as may be seen in the GitHub log https://github.com/learningBASh/chromium-debug/issues/1 
+
+I highly suspect this has to do with the way JavaScript interacts or should not interact with the login cookie of google.com. (but for any other site?) In order to check this out one would need a chrome browser with JavaScript debugging enabled. Can you reccomend a JavaScript debug version of chrome for use on my android?
+
+THIS ISSUE IS NOT YET RESOLVED
+DO NOT CLOSE THIS ISSUE
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #13
+Sep 12, 2024 12:53AM
+While my months of tracking this bug is being looked over can you talk to your banker about how much you will value my report to earn paid rewards from bughunters.google.com .I see fivethousand for an XSS bug in Gmail and $31,837 rewarded for a Google Cloud Deployment bug. What do you and your banker and perhapse your attorney suppose this-here bug report should be worth considering this affects every google account security in the world and inhibits GDPR compliance but mostly is prosecutable by any of the public at large as either a civil damages or military espionage case. Which has been already commit by Google and confirmed by willful neglect to solve the bug. On the prosecution side giving away the security of entire accounts by willfull neglect is likely to value at bankruptcy of Google and further damages and injuries of Liberty against the public which google could not pay for. Wouldn't you say 51% shareholding of the entire Corporation is fair reward?
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #14
+Sep 14, 2024 04:53AM
+Continue to wait while I compare this regressiin from Chrome current stable with Chromium unstable latest. Again if you can point me to a JavaScript debugging webbrowser so the actual JS code given to the effected Chrome android browsers can be audited for code being involved in this SEVERE PRIVACY ISSUE.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #15
+Sep 14, 2024 07:49AM
+The current preinstalled version of Chrome is 111.0.xxxx.116 and it seems to have different settings then latter versoins . This may actually be the browser version which this SEVERE PRIVACY ISSUE does regress to. I would need to be able to identify the changing of the handling of third party cookies in the sourcecode of Chrome to find out exactly how far this SEVERE PRIVACY ISSUE does regress. As you should know Google Play will force an upgrade to the latest Chrome from the playstore. That being said may explain why the bug wasn't reproduced while making a video in my previous post.
+ Having compared the settings with Chromium unstable latest the part of the settings which differ are the handling of thirdparty cookies being not only in 'site settings' now also in settings > privacy > tracking. The span of the regression is now presumably from 130.0 - 111.0 the versiin may be updated in this bugreport to 130.0. Please update the version now.
+ And do note the way the new handling of thirdparty cookies is put in settings seems to work hand in hand with the way JavaScript should-not be handling the login cookie. To take a look at the code which seems to have part in this offence I need access to a version of Chrome for android between the regressive versions 130-111 which does have JavaScript debugging.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #16
+Sep 14, 2024 02:44PM
+Where to upload the screen record video?
+va...@google.com <va...@google.com> #17Sep 16, 2024 05:41AM
+
+You can add as an attachment.
+
+Thanks
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #18
+Sep 16, 2024 07:37PM
+screen record video attached
+screen-20240914-085616.mp4
+33 MB Download
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #19
+Sep 19, 2024 03:51AM
+Accepted by
+matt39s.home@gmail.com.
+I see that the bug has been assigned to me. To begin work, again I need access to a JavaScript_debug version of Chrome for android between the regression span of the infected browsers 130.0 - 111.0.
+va...@google.com <va...@google.com> #20Sep 19, 2024 05:01AM
+
+Thanks Matt for the video.
+
+Tested on Android 15; Pixel 8 Build/AP4A.240916.001 | Chrome Canary 130.0.6723.6
+
+    Settings- > Privacy & Security -> Tracking protection -> Enable block all third party cookies
+    Try signing in browser
+        ABle to sign in without any issues.
+
+        Video
+
+@reporter: COuld you please help me with affected chrome version to reproduce the issue and let me know if I miss anything in video.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #21
+Sep 20, 2024 04:15AM
+I did supply a video. The effected browser is Chrome for android 130.0 - 111.0 For the affect of JavaScript I will need a JavaScript_debuggable Chrome for android build of the same.
+ Your attempt to reproduce possibly is because you are already logged in with framework GPS. Be sure to remove google accounts from the device and maybe even disallow allow Google login setting in Chrome for android.  
+However, the video is supplied watch the video which is a second proof of this bug having been reproduced multiple times. I previously did ask that you step aside and call for another bug handler to assist while you observe. Your earlier behavior shows that you are not fit for this- how I said unable to login to google and you equated that with watching a video- unfit.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #22
+Sep 20, 2024 04:37AM
+I just noticed that you vaggasathis supplied a video and have seen you using chrome canary you wouldn't use canary but use stable. You would look at my video of the reproduced bug and enter the same settings if it is your goal to reproduce the bug.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #23
+Sep 20, 2024 08:46AM
+For additional $1000 on top of my already qualifying for $500 bisect bonus for telling you this bug regresses to major release 111.0 I need to look at the commit tree for Google Chrome for android sourcecode. As per the bisect bonus rewards program: Bisect Bonus On top of the standard reward amounts, we offer a bisect bonus: $500: For identifying, such as through reproduction or other evidence, the earliest major release or oldest active release channel impacted by the vulnerability $1,000: For identifying the specific commit that introduced the bug
+Where do I access the Google Chrome for android sourcecode commit archive repository?
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #24
+Sep 20, 2024 10:46AM
+You need to pay for some of this upfront so I can continue debugging. For this critical impact bug google rewards schedules only a modest 25,000 or more for something which would bankraupt Alphabet Inc. At least send the google branded test equipment a pixel phone and maybe a chromebook with google fi wireless service.  For about the fourth time WHERE DO I GET A JAVASCRIPT DEBUGGING CHROME FOR ANDROID BROWSER. Presumably this is Google proprietary build for developed by google product Chrome for android. How do you expect bughunters.google.com to work if you do not give me access to the tools necesarry to research this critical flaw.
+va...@google.com <va...@google.com> Sep 20, 2024 11:22AM
+Assigned to va...@google.com.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #25
+Restricted
+Sep 22, 2024 05:38AM
+Learn More
+Screenshot_20240922-003105_1.png
+45 KB View Download
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #26
+Sep 22, 2024 06:14AM
+Our free system of English law can adjourn civil courts to prosecute this. Aside from military prosecution, in civility this-here bug could cost Google's corporate customers unseen amounts in damages. And individuals privacy and safty may be at risk. Google's potential for liability may be higher than you would imagine.
+ Let me be clear, in terms of civil rights and privacy military is obliged to protect the rights of any American who complains- willfully subverting the rights of American's should result in a class action bankraupcy and liquidation of the entire corporation and not only for funds in terms of restitution of offences against a priceless blessing yet to cease operation of the offender. Google has claimed to be an American multi-national company the American's involved are guilty of treason by supporting foreign espionage with the multinational elements. TikTok is under investigation now for foreign espionage against America's public. Google is not above the law. If Google were American Google should know better.
+ You could wonder if Google is making the bugs then feeding the bugs to a select group in a sort of money laundering scheme against the shareholders of Alphabet Inc.; Why wouldn't Google pay me for the qualified child-issue bug report?
+ I'll tell you what, since you didn't pay me for the lesser child-issue bug why should I debug the JavaScript which is likely involved in the same sort of scheme in which TikTok is now being liquidated for?  You need to pay me upfront.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #27
+Sep 22, 2024 08:53PM
+I notice after my asking for PGP email Google has prepended the PGP key download with the emails. I shpuld get what about 35 honorable mentions ( underneath due-rewards ) on my bughunters profile just for talking.  It is mentioned over and over but I see no way to create a bughunter profile. How do you create a bughunters profile?
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #28
+Sep 22, 2024 08:57PM
+Two points for vaggasathish's Trainor. 1. Reports on canary and trunk are discouraged. Testers should target releases, stable and not jump to lesser supported builds. 2. Videos are discouraged as per bughunters. When I or any other reporter write everything out we do not need to incessantly insist on screenshots and videos to be attached.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #29
+Sep 22, 2024 10:28PM
+Tracking down a vulnerability it takes time and dedication to get this far, and Google is learning about my discovery. I emailed the security team at security@google.com and get a reply as follows:
+
+ *** IMPORTANT - PLEASE READ ***
+This e-mail address is not monitored by humans – if you do not fill out the form, we will not be able to see your report.
+
+How does Google expect to receive PGP reports if none check the email?
+va...@google.com <va...@google.com> #30Sep 23, 2024 03:11PM
+
+Thanks for the updates.
+
+PLease find the below observations
+
+    We are able to REPRO the issue, only when we block javascript from site settings
+    With javascript enabled, we are able to sign successfully
+    Tracking protection: This setting is explicitly not seen under privacy and security, since feature not live yet
+        We enabled flag (Tracking protection for 3PCD) to see tracking protection under settings
+    With/without tracking protection & blocking all 3rd party cookies, with javascript being blocked we are seeing the issue.
+
+    Video
+
+This looks like intended , adding sign in owners bsazonov@ & triploblastic@ for the confirmation
+
+Thanks
+Message last modified on Sep 24, 2024 03:46AM
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #31
+Sep 25, 2024 05:15AM
+RE: "We are able to REPRO the issue, only when we block javascript from site settings"
+ this suggests JavaScript is handling the login cookie. JavaScript perhapse should-not be handling the login credentials. It may be a JS exploit. I would need a JS_debug brower on android to debug this.
+ Further, if and because it only happens when JS whitelists [*.]google.com also suggest possibility of extra-domain (thirdparty) JS code [is/were] handling the login although should-not. This also can be investigated only by JS_debug.
+JavaScript is more exploitable than all of the code of the browser itself. The flaw in the app may be working hand-in-hand with a Google server-side and user side JS exploit which mishandles login credentials.
+ I would prefer to be paid upfront to debug this myself and maintain full credit for the enirety of this complex and malicious privacy flaw. And to keep full credit to myself: Sovereign Jason M. Christos the First, for the full scope of the entire flaw as complex as it appears to be starting at security options UI in Chrome for android browser all the way into Google server side JS. Please let me know if Google can provide means of debugging JS using actual Chrome for android releases. Using alternate browsers or spoofing the UA may not always reproduce a bug as it effects to target specific software: Google Chrome for android production releases. Please let me know if Google can provide means of debugging JavaScript.
+
+Also note I have bisected regression to a major release version of 111.0 and this bug may behave differently on various releae versions; as with the privacy & tracking settings allowing for tracking in sections of the menu buried levels deep which I now notice may have been changed. For doubling the bisect bonus I will continue to seek resources for bisecting this severe privacy flaw to a specific commit in the sourcecode of Chrome for android. Please let me know if Google can provide resources to do so: so as to not rely on thirdparty tools in order to debug.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #32
+Sep 25, 2024 05:19AM
+Re: "With javascript enabled, we are able to sign successfully"
+this suggests thirdparty handling of login credentials- itbshould-not be so. JS debug needed as per my previous comment.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #33
+Sep 25, 2024 05:22AM
+RE: "Tracking protection: This setting is explicitly not seen under privacy and security, since feature not live yet"
+No the feature is live and part of the problem. My very-initial bugreport was titled no cookie whitelist because this feature removed the option. These are multiple repros on live Google Chrome for android releases.
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #34
+Sep 25, 2024 05:31AM
+RE: "With/without tracking protection & blocking all 3rd party cookies, with javascript being blocked we are seeing the issue." you "we" do not appear to be able to follow instructions. I have already provided clear and simple reproduction steps and even provided a (unnecessary) screen recording which shows exactly what I have written out. Further I myself have reproduced it on multiple versions and phones with the prior reproduction having screenshots overlayed in yellow captions of the bug.
+THE BUG IS CONFIRMED MULTIPLE TIMES REPRODUCIBLE AND AFFECTING ALL CHROME FOR ANDROID BROWSERS SINCE THE FLAW WAS INTRODUCED AFTER MY BISECT OF REGRESSION TO CHROME 111.0
+
+IF THIS IS INTENTENDED IT IS CRIMINAL
+Message last modified on Sep 25, 2024 05:35AM
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #35
+Sep 25, 2024 05:33AM
+RE: "This looks like intended , adding sign in owners bsazonov@ & triploblastic@ for the confirmation"
+IF THIS IS INTENDED IT IS A HIGHLY UNPROFESSIONAL HACK AND CRIMINAL
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #36
+Sep 25, 2024 06:18AM
+RE: video "screen-20240919-102043.mp4 (110M)"
+This is the second video you have produced after refusing to be corrected- continuing on in your same error.
+ For the second time. YOU SHOULD NOT BE USING CANARY. Canary is not a production release.
+ For the second time vaggasathish your behavior is not fit for interaction. You need to call for help this report needs another handler.
+ms...@google.com <ms...@google.com> #37Sep 25, 2024 09:33AM
+Status: Won't Fix (Not Reproducible)
+
+The comments in this bug do not respect the Chromium code of conduct: https://chromium.googlesource.com/chromium/src/+/main/CODE_OF_CONDUCT.md. Closing as "Won't fix" as it cannot be reproduced and the comments are aggressive and not useful.
+Add comment
+CC Me
+Issue metadata
+Access
+Limited visibility + Google
+Expanded Access
+Collaborators
+CC
+bs...@google.com
+matt39s.home@gmail.com
+ms...@google.com
+sa...@google.com
+tr...@google.com
+va...@google.com
+Code Changes
+--
+Privacy
+|
+Terms
