@@ -1,0 +1,140 @@
+https://issuetracker.google.com/issues/366515415
+IssueTracker
+
+Assigned to me
+Starred by me
+CC'd to me
+Collaborating
+Reported by me
+
+    To be verified 
+
+Bookmark groups
+Saved searches
+Hotlists
+Create hotlist
+Create bookmark group
+Browse components
+Issue 366515415
+This issue is a part of the Chromium tracker.
+1269738907
+Public Trackers > 1362134 > Chromium > UI
+SEVERE PRIVACY ISSUE cookie management is bro...
+4 of 8
+IMMEDIATLY HALT "Tracking protection test group"
+Comments
+(7)
+Dependencies
+(0)
+Duplicates
+(0)
+Blocking
+(0)
+Resources
+(6)
+Infeasible
+Bug
+P2
+Needs-Milestone
+Triaged-ET
+Status Update
+
+No update yet.
+DescriptionSovereign Jason M. Christos the First SP created issue #1
+Sep 14, 2024 02:23PM
+"The United States of America." Vs. Google (class action) SEVERE PRIVACY ISSUE cookie management is broken from Chrome 111.0 onward towards Chromium unstable current 130.0. It appears after ignoring 4 of my bugbreports they at Google are retroactively calling this severe privacy FLAW a "Tracking protection test group" however this flaw is a SEVERly wrong developement in the code from 111.0 onwards. Every chrome browser has this flaw there is no group. Screenshot attached of Google only recently adding notes abput a "test group" after I had already reported and documented this FLAW on github whilst Chrome 122 was current stable. Payment for this bug is most definitly in order. And for the people IMMEDIATLY HALT "Tracking protection test group" to prevent further criminal negligence liability for damages done by Google.
+chrome_screenshot_Sep 14, 2024 8_47_50 AM CDT.png
+758 KB View Download
+Issue summary
+Similar issues
+Title 	Dupes 	+1s 	
+Created
+	
+Enable native occlusion tracking in interactive_ui_tests (and more?)
+	0 	1 	Apr 10, 2024	
+Create specific flags + remove usage of CHROME_HEADLESS from tests
+	0 	1 	Apr 9, 2024	
+Tag group deleted if any tab in that group prompts that changes could be lost on exiting the browser
+	0 	3 	Sep 5, 2024	
+Mentioned issues (2)
+P2
+	SEVERE PRIVACY ISSUE cookie management is broken in all android chrome regression from stable
+“
+issue 365405757
+”
+	
+matt39s.home@
+#4
+P2
+	Chrome for android hangs
+“
+https://issuetracker.google.com/366590749
+”
+	
+matt39s.home@
+#6
+Links (3)
+“
+https://support.google.com/chrome/thread/263788579?hl=en
+”
+matt39s.home@
+#4, matt39s.home@
+#6
+“
+google.com
+”
+matt39s.home@
+#4
+“
+www.google.com
+”
+matt39s.home@
+#4
+Comments
+All comments
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #2
+Sep 15, 2024 05:39PM
+The child of a critical impact global security flaw here is a lie of retroactively covering up the flaw in the documentation by calling it a test group. I have attached the screenshot of the documentation which does put the user in a vulnerable position. This alone as a child issiue is worth $500 as per the program rewards as follows Documentation update (security impacting)       $100-$500       Standard amount for reports of incorrect documentation which is likely to lead to insecure states for users.
+ Proof that this test group was not in the documentation prior to my bugreport may be seen in my backlog of previous bug reports where I may have complained of my help requests being frozen after saying Google support documentation eas WRONG.
+ Payment of $100-500 for this alone is in order and $500 because it cannot get any more SEVERE then critical impact global vulnerability. $500
+pa...@google.com <pa...@google.com> #3Sep 16, 2024 12:32PM
+@Reporter: Could you please elaborate on the same by providing expected/actual behaviour along with the clear reproducible steps. If possible provide a screencast for better understanding/triaging the issue.
+Also provide OS and Version details
+
+Thanks..!
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #4
+Sep 16, 2024 08:19PM
+Yes I can provide expected/actual behaviour along with the clear reproducible steps and to be clear this here issue is a child of issue 365405757. This is about documentation putting the user in a vulnerable state. In this case by completely NOT documenting how to block thirdparty cookies as I confirmed during Chrome for android release 122.0 and mentioned on Google help community post dated Mar 13, 2024 3/13/2024, 5:50:42 PM as following with an excerpt:
+""Here are the docs on the various ways to manage cookies " is exactly, exactly!, what I was talking about in my community post here https://support.google.com/chrome/thread/263788579?hl=en I do quote Myself " The BUG really proves Google Help files WRONG about block third-party cookies " with 3 updates and two replys missing (missing from the community post thread because of censorship). "
+ You see here that I have confirmed on the date Mar 13, 2024 3/13/2024, 5:50:42 PM that Google Chrome for android documentation put's the user in a vulnerable state. And as for the so called "tracking protection test group" the parent Bug of this documentation bug proves that there is no test group but that this was inserted into the ducumentation later apparently as a coverup since I discovered the faulty documentation and parent bug.
+ One would expect Google Chrome documentation to reflect the settings of the Google Chrome for android browser. However I have documented that from my date of reporting Google had only documentation relevent to browsers 111.0 before the regression of the parent bug. Thus putting the user in a vulnerable state -having no warning of the changes in the handling of third party cookies, and no correct documentation of how to block thirdparty cookies. Yet the only way to login to google.com is to allow third party cookies which is a FLAW and no test group because the flaw exists on all Chrome for android browsers after 111.0.
+The actual behavior of the documentation is to show irrelivent old documentation and only after my initial report then insert a lie tagged "Important:" and "NOTE:" to attempt to explain away the missing documemtation as a "tracking test group" however the documentation seen only applies to browsers 111.0 and prior which are Unsupported by Google not even to be considered products of Google. Thus having put the user in a vulnerable state. Now showing the block thirdparty cookies setting in a  falsely labled "tracking protection test group" which is contingent upon the parent bug flaw in which when the user chooses to block thirdparty cookies the user will no longer be able to login to www.google.com.
+ You should expect to see documentation which applies to current supported Google Chrome for android and not leaving the user in a vulnerable state.
+pe...@google.com <pe...@google.com> #5Sep 16, 2024 08:28PM
+
+Thank you for providing more feedback. Adding the requester to the CC list.
+ch...@chromium.org <ch...@chromium.org> Sep 17, 2024 11:36PM
+Status: Won't Fix (Infeasible)
+Sovereign Jason M. Christos the First SP <matt39s.home@gmail.com> #6
+Sep 20, 2024 11:44AM
+If you were to disqualify my bug for any business security embargo (because of my github copies) know that "Liberty is a priceless blessing" andnit behoovethed me to keep a journal of Google's failuresbtobacknowledge and amendnit's errors. The upstream of this bug is certainly prosecutable as military espionage weather direct or indirect treason and/or multinational foreign espionage by now confirmed and documented willfull neglect to acknowledge a known and reproduced bug which has critical impact User information disclosure. Liberty is priceless and no settlement amount can pay restitution for injured liberty.
+Any cooperation will speak good of your demeanor before the military tribunal. This is a now documented Security documentation vulnerability which put's the user in a vulnerable state according to Google rewards schedule is worth $500 now consider the impending liabilities of the upstream parent bug and Reassessment of Reward Amount is in order for this specific case; a Google pixel with Google wireless service should be accepted by me for reward of this child bug only- for our mutual benifit so I can with the equipment continue to hunt and solve this upstream parent bug here https://issuetracker.google.com/issues/366590749 .  The equipment will also help to mitigate this blocker bug here https://issuetracker.google.com/issues/366590749 which bug is likely an unknown parent or another child bug in where Google Chrome for android software is completely unusable and unworthy to be sold or on the market.
+There is nothing " infeasible" ( Status: Won't Fix (Infeasible) ) about this bug. This is already documented it is even on your records formentioned by myself here https://support.google.com/chrome/thread/263788579?hl=en there is still a frozen community help post where I initially complained of WRONG documentation which may be subpoenaed as evidence pursuant complicant espionage now confirmed by willful neglect there can be no excuse of accidental violation of the civil rights because Google has been notified yet continues. Individuals may invoke the fivth clause of the first amendment however corporations cannot neither should Alphabet Inc.'s documents escape siezure.
+na...@gmail.com <na...@gmail.com> #7Sep 23, 2024 05:37PM
+
+Daniela Daniela De Almada
+Add comment
+CC Me
+Issue metadata
+Access
+Default access
+Expanded Access
+Collaborators
+CC
+matt39s.home@gmail.com
+pa...@google.com
+Code Changes
+--
+Privacy
+|
+Terms
