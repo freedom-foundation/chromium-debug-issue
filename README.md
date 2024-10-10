@@ -1,0 +1,3 @@
+The purpose of this chromium-debug-issue repo is to mirror reports from bugtracker.google.com because they were made private and there is a possibility Google can delete them. Also my fork-mirror chromium-debug has no option to create issues which is a little funny because on a privious account github allowed for issues with a fork-mirror of the same chromium repo therefore I simplt created this chromium-debug-issue repo alongside of chromium-debug to allow for issue creating.
+Contents:
+Indide this repo may be found text and PDF copies of issues correspimding to those hidden on bugtracker.google.com.
